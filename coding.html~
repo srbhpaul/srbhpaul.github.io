@@ -1,0 +1,71 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Coding</title>
+<link href="main.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+
+<!--------------------------------------- header ------------------------------------------->
+<div id="header">
+	<img src="memorial.jpg" width="97%" height="191" alt="Jefferson Memorial"/>
+    <br>
+    <br>
+    <a href="index.html"><strong><font size="5">Home</font></strong></a>
+    <a href="research.html"><strong><font size="5">Research</font></strong></a>
+    <a href="CV_Saurabh_Paul.pdf"><strong><font size="5">CV</font></strong></a>
+    <a href="coding.html"><strong><font size="5">Coding</font></strong></a>
+    <a href="photography.html"><strong><font size="5">Photography</font></strong></a>
+</div>
+ <!---------------------------------- xxx  header ------------------------------>
+ 
+ 
+ <!-------------------------------------------- nav ------------------------------------------------>
+ <div id="nav">
+	<img class="mypic" style="border: 0px solid; width: 83%" alt="Saurabh Paul" 
+         src= "me_fb.jpg">
+    <br> 
+    <br>
+    <a href="mailto:daffodils.muse@gmail.com"><img src="mailto.png" alt="email" height="35" width="35">
+    </a> 
+    <a href="https://www.facebook.com/saurabh.paul.31"><img src="facebook.png" alt="facebook" height="35" width="35"></a> 
+    <a href="https://www.linkedin.com/pub/saurabh-paul/74/b2/626"><img src="linkedin.png" alt="linkedin" height="35" width="35"></a> 
+    <br>
+    <br>
+    <strong>University Links</strong>
+    <hr>
+    <div class="navlink">
+        <p>    
+        <a href="http://jqi.umd.edu//">Joint Quantum Institute</a><br>
+        <a href="http://quics.umd.edu/">Joint Center for Quantum Information <br> and Computer 
+                  Science</a><br>
+        <a href="http://umdphysics.umd.edu/">Dept. of Physics, University of Maryland</a><br>
+        <a href="http://jqi.umd.edu/people/saurabh-paul">Link to my JQI page</a><br>
+        <a href="http://jqi.umd.edu/research-group/tiesinga">Tiesinga research group</a><br>
+        </p>
+    </div>
+    <br>
+          
+</div>
+<!---------------------------------- xxx nav ---------------------------------->
+
+
+<!--------------------------------------- section -------------------------------------------->
+<div id="section">
+  <h1><em>Coding</em></h1>
+  
+  <p> 
+    I have been predominantly using Python and Fortran 90 for numerical computations in my research. I am also highly interested in data science problems and applying machine learning techniques to learn from data. Some of my codes, both related to my research, as well as more general data related problems can be found in my 
+    <a href="https://github.com/srbhpaul">github</a>
+    page.
+
+    I recently attended the <a href="http://nyc2015.pydata.org/">Pydata NYC 2015</a> conference. This was my first time attending a Python conference and it was an amazing experience! Enjoyed learning about the host of various problems being tackled in data science in general, and in particular, the associated huge number of python modules geared towards such problems.
+  </p> 
+
+</div>   
+
+
+</body>
+</html>

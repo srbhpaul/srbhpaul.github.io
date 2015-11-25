@@ -1,0 +1,164 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* ------------- header style ----------------------- */
+#header {
+    /*background-color:rgb(184, 184, 2302);*/
+    width:90%;
+    margin-left:5%;
+    margin-right:5%;
+    background:linear-gradient(rgb(154, 154, 179),rgb(184, 184, 2302));
+    color:white;
+    text-align:center;
+    text-height:font-size;
+    padding-right:15px;
+    padding-bottom:25px;
+    border-bottom-right-radius:10px;
+}
+
+#header img {
+  background: #eaeaed;
+  border: 1px solid #9799a7;
+  float: center;
+  margin: 8px 0 0 20px;
+  padding: 4px;
+}
+
+#header a{
+    padding-right:100px;
+    color: #3C3C40;	
+}
+#header a:hover {
+	color: black;
+}
+/* ---------------- xxx --------------- header */
+
+
+/* ------------- navigation panel style ----------------------- */
+#nav {
+    margin-left:5%;
+    line-height:20px;
+    background-color:rgb(184, 184, 2302);
+    height:auto;
+    /*width:300px;*/
+    width:24%;
+    float:left;
+    text-align:center;
+    padding-left:5px;	 
+    padding-right:5px;
+    padding-bottom:5px;
+    border-bottom-left-radius:10px;
+    border-bottom-right-radius:10px;    
+}
+
+#nav a{
+	color: black;
+}
+
+#nav a:hover {
+    color: black;
+    text-decoration: underline;
+}
+
+img.mypic {
+  background: #eaeaed;
+  border: 1px solid #9799a7;
+  float: center;
+  margin: 0px 0 0 0px;
+  padding: 4px;
+}
+
+.navlink{
+    text-align:left;
+}
+/* ---------------- xxx --------------- nav */
+
+
+/* ------------- section style ----------------------- */
+#section {
+	/*background-color:rgb(255, 246, 238);*/
+    /*width:750px/*917px;*/
+    width:60%;
+    height:100%;
+    float:left;
+    padding:10px;
+    margin-left:10px;
+}
+
+.album{
+    width:200px;
+    margin:5px 30px 10px 10px;
+    float:left;
+    text-align:center;
+}
+
+a.album{
+    float:none;
+}
+
+img.album {
+  background: #eaeaed;
+  border: 5px solid #9799a7;
+  float: center;
+  margin: 10px 10 10 10px;
+  padding: 4px;
+}
+
+#section a{
+    color: rgb(51, 102, 204)/*#3C3C40*/;
+} 
+#section a:hover {
+    color: rgb(29, 57, 114);
+    text-decoration: underline;
+}
+/* ---------------- xxx --------------- sec */
+
+
+/* ------------- general link style ----------------------- */
+a, a:link{
+	text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+	color: black;
+    /*text-decoration: underline;*/
+}
+
+a:active {
+    text-decoration: none;
+}
+
+#nav a:link{
+	color: black;
+}
+/* ---------------- xxx --------------- links */
+
+
+/* ------------- heading h1 style ----------------------- */
+h1, h2, h3{
+	color: rgb(36, 36, 37);	
+}
+
+
+/* ------------- footer style ----------------------- */
+#footer {
+    /*background-color:rgb(154, 154, 179);*/
+    width:90%;
+    margin-left:5%;
+    margin-right:5%;
+
+    background:linear-gradient(rgb(154, 154, 179),rgb(139, 139, 161));
+    line-height:30px;
+    text-align:center;
+    clear: both;
+    position: relative;
+    height: 2em;
+    margin-top: -2em;
+    border-bottom-left-radius:10px;
+    border-bottom-right-radius:10px;
+}
+/* ---------------- xxx --------------- header */

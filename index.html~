@@ -1,0 +1,88 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Saurabh Paul Home Page</title>
+<link rel="stylesheet" href="main.css">
+</head>
+
+<body>
+
+<!--------------------------------------- header ------------------------------------------->
+<div id="header">
+  <img src="memorial.jpg" width="97%" height="191" alt="Jefferson Memorial">
+  <br>
+  <br>
+  <a href="index.html"><strong><font size="5">Home</font></strong></a>
+  <a href="research.html"><strong><font size="5">Research</font></strong></a>
+  <a href="CV_Saurabh_Paul.pdf"><strong><font size="5">CV</font></strong></a>
+  <a href="coding.html"><strong><font size="5">Coding</font></strong></a>
+  <a href="photography.html"><strong><font size="5">Photography</font></strong></a>
+</div>
+<!---------------------------------- xxx  header ------------------------------>
+
+
+<!-------------------------------------------- nav ------------------------------------------------>
+<div id="nav">
+	<img class="mypic" style="border: 0px solid; width: 83%" alt="Saurabh Paul" 
+         src= "me_fb.jpg"> <!-- width: 250px; height: 250px; -->
+    <br> 
+    <br>
+    <a href="mailto:daffodils.muse@gmail.com"><img src="mailto.png" alt="email" height="35" width="35">
+    </a> 
+    <a href="https://www.facebook.com/saurabh.paul.31"><img src="facebook.png" alt="facebook" height="35" width="35"></a> 
+    <a href="https://www.linkedin.com/pub/saurabh-paul/74/b2/626"><img src="linkedin.png" alt="linkedin" height="35" width="35"></a> 
+    <br>
+    <br>
+    <strong> Contact info</strong>
+    <hr>
+    <p>
+       <strong>Office address</strong> 
+       <br>
+       Room# 2112 <br>
+       CSS Building #224<br>
+       Stadium Drive <br>
+       University of Maryland <br>
+       College Park, MD 20742 <br>
+       <strong>email</strong> <br>
+       <a href="mailto:daffodils.muse@gmail.com"><em>Contact Me</em></a> <br>
+    </p>
+</div>
+<!---------------------------------- xxx nav ---------------------------------->
+
+
+<!------------------------------------------- section ------------------------------------------------->
+<div id="section">
+  <h1><em>Saurabh Paul</em></h1>
+  <p>
+    I am a PhD student at the <a href="http://umdphysics.umd.edu/">Dept. of Physics</a>, <a href="http://jqi.umd.edu//">Joint Quantum Institute</a> and <a href="http://quics.umd.edu/">Joint Center for Quantum Information and Computer Science</a>, University of Maryland, College Park. I work in the 
+    <a href="http://jqi.umd.edu/research-group/tiesinga">group</a> 
+    of Dr. Eite Tiesinga. I did my Masters in Physics from the 
+    <a href="http://www.iitk.ac.in/">Indian Institute of Technology, Kanpur</a>, India and my Bachelor of Science, Physics (Hons) from 
+    <a href="http://www.bhu.ac.in/">Banaras Hindu University</a>, India.
+  </p>
+
+  <p>
+    My 
+    <a href="research.html">research</a> 
+    involves theoretically studying many-body quantum systems engineered using <a href="http://groups.jqi.umd.edu/porto/research/cold-atoms-optical-lattices">ultra-cold atoms in optical lattices</a>. This has burgeoned into a highly exciting research area, and has become the testing ground for a huge array of condensed matter and quantum phenomena. In my research, I do analytical as well as extensive numerical computations. Initially, much of the coding I did was in Fortran 90. In the last couple of years, I have switched to a large extent to using Python. I am proficient in Mathematica and also familiar with C++. I use <a href="http://www.ubuntu.com/">Ubuntu</a> most of the time, with intermittent use of 
+    <a href="https://access.redhat.com/products/red-hat-enterprise-linux/">Red Hat Enterprise Linux</a> 
+    in my office desktop. As an aside, I also have some familiarity with HTML and CSS, a knowledge that came handy in creating this webpage!
+  </p>
+
+  <p>
+    I love photography! It gives me immense joy and also acts as a stress buster. You would usually find me photo editing in my pastime! Also, I am a big foodie and enjoy cooking a ton!
+  </p>
+  
+</div>
+<!------------------------------------------- xxx section ---------------------------------->
+
+
+<!---------------------------------------- footer -------------------------------------------->
+<div id="footer">
+    Copyright &copy; &nbsp; 2015<em> - Saurabh Paul</em>
+</div>
+<!---------------------------------- xxx footer ---------------------------------->
+
+</body>
+</html>
